@@ -1,0 +1,7 @@
+num=int(input("enter your number:"))
+
+if num == 10:
+    print ('რიცხვი არის 10ის ტოლი')
+
+else:
+    print('რიცხვი არ უდრის 10ს')
