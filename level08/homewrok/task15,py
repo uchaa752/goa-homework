@@ -1,0 +1,13 @@
+nums = [1, 2, 3, -3, 6, -9]
+
+pos = 0
+neg = 0
+
+for num in nums:
+    if num > 0:
+        pos = pos + 1
+    else:
+        neg = neg + 1
+
+print(pos)
+print(neg)
