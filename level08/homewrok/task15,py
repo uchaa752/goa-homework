@@ -5,9 +5,9 @@ neg = 0
 
 for num in nums:
     if num > 0:
-        pos = pos + 1
-    else:
-        neg = neg + 1
+        pos += 1
+     else:
+        neg +=1
 
 print(pos)
 print(neg)
