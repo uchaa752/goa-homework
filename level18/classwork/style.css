@@ -1,0 +1,15 @@
+#h11{
+    color: rgb(255, 255, 255);
+    background-color: orange;
+    text-align: center;
+    border: 2.px solid red;
+    border-radius: 20px;
+}
+
+.h12{
+    color: rgb(255, 0, 0);
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    border: 2.px solid red;
+    border-radius: 20px;
+}

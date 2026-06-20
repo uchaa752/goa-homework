@@ -1,0 +1,10 @@
+.container {
+    background-color: lightblue;
+    color: blue;
+    text-align: center;
+    padding: 20px;
+}
+
+.red-text {
+    color: red;
+}

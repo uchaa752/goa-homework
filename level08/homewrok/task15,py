@@ -6,7 +6,7 @@ neg = 0
 for num in nums:
     if num > 0:
         pos += 1
-     else:
+    else:
         neg +=1
 
 print(pos)
